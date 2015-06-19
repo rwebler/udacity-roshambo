@@ -43,12 +43,12 @@ class RoshamboGame {
                 resultImageName = "RockBeatsScissors"
                 resultText = "Player wins! Rock crushes Scissors."
             } else {
-                resultImageName = "ScissorsBeatsPaper"
+                resultImageName = "PaperBeatsRock"
                 resultText = "AI wins! Paper wraps Rock."
             }
         } else if (playerHand == "Paper") {
             if (aiHand == "Rock") {
-                resultImageName = "ScissorsBeatsPaper"
+                resultImageName = "PaperBeatsRock"
                 resultText = "Player wins! Paper wraps Rock."
             } else {
                 resultImageName = "ScissorsBeatsPaper"
