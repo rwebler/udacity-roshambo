@@ -14,6 +14,7 @@
 		F7BD02801B30E874006FCF9F /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = F7BD027E1B30E874006FCF9F /* LaunchScreen.xib */; };
 		F7BD028C1B30E874006FCF9F /* RoshamboTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7BD028B1B30E874006FCF9F /* RoshamboTests.swift */; };
 		F7BD02981B30EC3D006FCF9F /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7BD02971B30EC3D006FCF9F /* ResultViewController.swift */; };
+		F7BD029A1B338D8B006FCF9F /* RoshamboGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7BD02991B338D8B006FCF9F /* RoshamboGame.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		F7BD028A1B30E874006FCF9F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F7BD028B1B30E874006FCF9F /* RoshamboTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoshamboTests.swift; sourceTree = "<group>"; };
 		F7BD02971B30EC3D006FCF9F /* ResultViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
+		F7BD02991B338D8B006FCF9F /* RoshamboGame.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoshamboGame.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				F7BD027E1B30E874006FCF9F /* LaunchScreen.xib */,
 				F7BD02731B30E874006FCF9F /* Supporting Files */,
 				F7BD02971B30EC3D006FCF9F /* ResultViewController.swift */,
+				F7BD02991B338D8B006FCF9F /* RoshamboGame.swift */,
 			);
 			path = Roshambo;
 			sourceTree = "<group>";
@@ -217,6 +220,7 @@
 			files = (
 				F7BD02781B30E874006FCF9F /* ChoiceViewController.swift in Sources */,
 				F7BD02761B30E874006FCF9F /* AppDelegate.swift in Sources */,
+				F7BD029A1B338D8B006FCF9F /* RoshamboGame.swift in Sources */,
 				F7BD02981B30EC3D006FCF9F /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
